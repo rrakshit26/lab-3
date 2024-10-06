@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''Lab 3 Part 1 script - lists'''
-# Author ID: vsingh227
+# Author ID: rrakshit
 
 my_list = [100, 200, 300, 'six hundred']
 
