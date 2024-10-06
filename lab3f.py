@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''Lab 3 Part 1 script - modifying lists'''
-# Author ID: vsingh227
+# Author ID: rrakshit
 
 my_list = [1, 2, 3, 4, 5]
 
