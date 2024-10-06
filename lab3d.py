@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''Lab 3d script - system commands'''
-# Author ID: vsingh227
+# Author ID: rrakshit
 
 import subprocess
 
