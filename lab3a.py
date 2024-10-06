@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 '''Lab 3 Part 1 script - functions'''
-# Author ID: vsingh227
+# Author ID: rrakshit
 
 def return_text_value():
     name = 'Terry'
